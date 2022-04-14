@@ -1,0 +1,17 @@
+{
+  "name": "icon-color",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "typescript": {
+    "main": "index.ts"
+  },
+  "scripts": {
+    "init": "yarn install",
+    "run": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "*"
+  }
+}
